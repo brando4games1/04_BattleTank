@@ -16,3 +16,4 @@ Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to fin
 ##Lecture list
 * BT01 Intro, Notes & Assets
 * BT02 Game Design Document (GDD)
+* BT03 Setting Up A GitHub "Repo"
